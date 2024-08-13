@@ -1,21 +1,15 @@
 
 # ✏️ Madhur Arya's README
 
-  
+## Pronounciation
 
-> **Note**
+`/mʌðʊɾ aɾjɑ/` (similar to _Maa-dhur Ar-yaa_).
 
-> This is a guide on how to work with me, inspired by the READMEs of [Quinn Slack](https://handbook.sourcegraph.com/team/ceo/) and YC founders [Tim Glaser](https://posthog.com/handbook/company/team/tim-glaser) and [Sid Sijbrandij](https://about.gitlab.com/handbook/ceo/).
+## About me
 
-
-## Pronounciation  
-
-
-`/mʌðʊɾ aɾjɑ/` (similar to _Maa-dhur Ar-yaa_)
-
-## About me  
-
-I'm from India and currently live in and work remotely from Berlin
+- I'm from India and currently live in and work remotely from Berlin
+- 👯 I’m always looking to collaborate with some intersting open source projects
+- ⚡ Fun fact: I love Geography and Books
 
 ## Quirks  
 
@@ -29,21 +23,13 @@ I'm from India and currently live in and work remotely from Berlin
 
 - I have been told me that I am "very good at things \[I] want to do, and so bad at things I don't want to do". I want to do a better job at tasks that are important, but those I'm not particular excited about.
 
-_More to be added!_
-
-  
 ## What I value & how you can help me
 
 - **Keeping things in the open:** Just like this README, I keep my OKRs and everything else I can, public. If it's not public, it's shared internally with the team (e.g., my calendar and life updates). I value transparency, even in the little things like posting in Slack/Teams channels rather than direct messages.
 
-- **Feed me back:** I piked this incredibly useful habit up from my friend -- asking for feedback. If we have a one-on-one meeting, I highly value receiving feedback on how I can improve personally, do my job better, or help you do your job better.
-
+- **Feed me back:** I piked this incredibly useful habit up from my Mentor -- asking for feedback. If we have a one-on-one meeting, I highly value receiving feedback on how I can improve personally, do my job better, or help you do your job better.
   
-## How I can help you
+> ## License
 
-_More to be added!_
+> This text is shared under a Creative Commons Attribution 4.0 International license ([CC BY 4.0](./LICENSE)). It was inspired by the READMEs of [Quinn Slack](https://handbook.sourcegraph.com/team/ceo/) and YC founders [Tim Glaser](https://posthog.com/handbook/company/team/tim-glaser) and [Sid Sijbrandij](https://about.gitlab.com/handbook/ceo/).
 
-  
-## License
-
-This text is shared under a Creative Commons Attribution 4.0 International license ([CC BY 4.0](./LICENSE)).
