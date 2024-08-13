@@ -1,6 +1,7 @@
 
 # ✏️ Madhur Arya's README
 
+
 ## Pronounciation
 
 `/mʌðʊɾ aɾjɑ/` (similar to _Maa-dhur Ar-yaa_).
@@ -28,8 +29,9 @@
 - **Keeping things in the open:** Just like this README, I keep my OKRs and everything else I can, public. If it's not public, it's shared internally with the team (e.g., my calendar and life updates). I value transparency, even in the little things like posting in Slack/Teams channels rather than direct messages.
 
 - **Feed me back:** I piked this incredibly useful habit up from my Mentor -- asking for feedback. If we have a one-on-one meeting, I highly value receiving feedback on how I can improve personally, do my job better, or help you do your job better.
-  
-> ## License
+
+
+## License
 
 > This text is shared under a Creative Commons Attribution 4.0 International license ([CC BY 4.0](./LICENSE)). It was inspired by the READMEs of [Quinn Slack](https://handbook.sourcegraph.com/team/ceo/) and YC founders [Tim Glaser](https://posthog.com/handbook/company/team/tim-glaser) and [Sid Sijbrandij](https://about.gitlab.com/handbook/ceo/).
 
